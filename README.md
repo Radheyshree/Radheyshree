@@ -29,6 +29,7 @@ Final year B.Tech in CSE undergrad | Passionate about problem-solving and buildi
 
 ## 🌱 I'm currently learning
 - Artificial Intelligence and Machine Learning
+- Generative AI
 
 ## 📫 How to reach me
 - LinkedIn: [radheyshree](https://www.linkedin.com/in/radheyshree-agrawal-7a4430236/)
