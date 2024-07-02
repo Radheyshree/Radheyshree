@@ -18,27 +18,27 @@ Here are some ideas to get you started:
 # 👋 Hi there, I'm Radheyshree Agrawal.
 
 ## 🚀 About Me
-Third-year B.Tech in CSE undergrad | Passionate about problem-solving and building solutions.| 
+Third-year B.Tech in CSE undergrad | Passionate about problem-solving and building solutions | 
 
 ## 🛠 Skills
 - Programming Languages: Python, C, C++, Java
 - Familiar With: Python Development, Full Stack Development
-<!--- Databases: [e.g., MySQL, MongoDB]-->
 - Tools: Git
+<!--- Databases: [e.g., MySQL, MongoDB]-->
+
 
 ## 🌱 I'm currently learning
 - Artificial Intelligence and Machine Learning
 
 ## 📫 How to reach me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-- Twitter: [@yourusername](https://twitter.com/yourusername)
-- Email: youremail@example.com
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/radheyshree-agrawal-7a4430236/)
+- Email: radheyshree01@gmail.com
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!---## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=false&no-bg=true&margin-w=4)-->
 
 
 ---
