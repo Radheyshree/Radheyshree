@@ -31,7 +31,7 @@ Third-year B.Tech in CSE undergrad | Passionate about problem-solving and buildi
 - Artificial Intelligence and Machine Learning
 
 ## 📫 How to reach me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/radheyshree-agrawal-7a4430236/)
+- LinkedIn: [radheyshree](https://www.linkedin.com/in/radheyshree-agrawal-7a4430236/)
 - Email: radheyshree01@gmail.com
 
 ## 📊 GitHub Stats
