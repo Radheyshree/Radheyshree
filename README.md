@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # 👋 Hi there, I'm Radheyshree Agrawal.
 
 ## 🚀 About Me
-Final year B.Tech in CSE undergrad | Passionate about problem-solving and building solutions | 
+Final year B.Tech in CSE undergrad | Passionate about problem-solving and building solutions
 
 ## 🛠 Skills
 - Programming Languages: Python, C, C++, Java
