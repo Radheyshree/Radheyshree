@@ -35,27 +35,6 @@ Here are some ideas to get you started:
 - Email: radheyshree01@gmail.com
 
 
-<button id="profile-view-count" onclick="getProfileViewCount()">
-  Profile Views: <span id="view-count"></span>
-</button>
-
-<script>
-  const apiUrl = 'https://api.github.com/users/Radheyshree';
-  const token = process.env.TOKEN_github;
-  const headers = {
-    'Authorization': `Bearer ${token}`,
-    'Content-Type': 'application/json'
-  };
-
-  function getProfileViewCount() {
-    fetch(apiUrl, { headers })
-     .then(response => response.json())
-     .then(data => {
-        const viewCount = data.view_count;
-        document.getElementById('view-count').textContent = viewCount;
-      });
-  }
-</script>
 <!---
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
