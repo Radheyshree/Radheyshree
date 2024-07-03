@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi there, I'm Radheyshree Agrawal.
 
-## 🚀 About Me
-Final year B.Tech in CSE undergrad | Passionate about problem-solving and building solutions
+## 🚀 Final year B.Tech in CSE undergrad | Passionate about problem-solving and building solutions
 
 ## 🛠 Skills
 - Programming Languages: Python, C, C++, Java
@@ -35,9 +34,9 @@ Final year B.Tech in CSE undergrad | Passionate about problem-solving and buildi
 - LinkedIn: [radheyshree](https://www.linkedin.com/in/radheyshree-agrawal-7a4430236/)
 - Email: radheyshree01@gmail.com
 
-<!---## 📊 GitHub Stats
+## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
+<!---
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
