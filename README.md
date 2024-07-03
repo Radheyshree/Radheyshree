@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ### Profile Views
 <script>
   const apiUrl = 'https://api.github.com/users/Radheyshree';
-  const token = 'process.env.TOKEN_github';
+  const token = process.env.TOKEN_github;
   const headers = {
     'Authorization': `Bearer ${token}`,
     'Content-Type': 'application/json'
