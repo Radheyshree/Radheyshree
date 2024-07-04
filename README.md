@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 ## 🛠 Skills
 - Programming Languages: Python, C, C++, Java
 - Familiar With: Python Development, Full Stack Development
-- Tools: Git
-<!--- Databases: [e.g., MySQL, MongoDB]-->
+<!---- Tools: Git
+ Databases: [e.g., MySQL, MongoDB]-->
 
 
 ## 🌱 I'm currently learning
