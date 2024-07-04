@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 <!---- Tools: Git
  Databases: [e.g., MySQL, MongoDB]-->
 
-
 ## 🌱 I'm currently learning
 - Artificial Intelligence and Machine Learning
 - Generative AI
@@ -42,7 +41,6 @@ Here are some ideas to get you started:
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
+-->
 ---
-⭐️ From [yourusername](https://github.com/yourusername)-->
+⭐️ From [radheyshree](https://github.com/Radheyshree)
