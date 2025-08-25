@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi there, I'm Radheyshree Agrawal.
 
-## Software and AI Engineer | Passionate about problem-solving and building solutions 🚀
+## Software Engineer | Passionate about AI,  problem-solving and building solutions 🚀
 
 ## 🛠 Skills
 - Languages: Python, Java, SQL, JavaScript
